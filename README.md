@@ -36,8 +36,8 @@ This project demonstrates how to build dynamic user interfaces using:
 
 ## 🚀 Live Demo
 
-🔗 **Try the app**: [https://your-live-link.com](https://your-live-link.com)  
-*(Replace this with your actual deployment URL)*
+🚧 **Live demo coming soon...**  
+_Stay tuned!_ 🌐
 
 ---
 
